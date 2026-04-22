@@ -1,0 +1,30 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "nome": "Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 2,
+            "nome": "Informática para Internet",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 3,
+            "nome": "M-Tec-PI Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 3,
+            "nome": "Informática",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+
+    ]
+
+}
