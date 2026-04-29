@@ -23,7 +23,7 @@
             "nome": "Informática",
             "disciplinas": ["Redes de Computadores", "WEB", "BD"],
             "carga-horaria": 1200
-        },
+        }
 
     ],
     "professores":[
